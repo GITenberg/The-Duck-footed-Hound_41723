@@ -1,0 +1,39 @@
+_repo: The-Duck-footed-Hound_41723
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Simont, Marc
+    alias: Simont, Mark
+    gutenberg_agent_id: '41176'
+    url: http://www.gutenberg.org/2009/agents/41176
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kjelgaard, Jim
+    aliases:
+    - Kjelgaard, James Arthur
+    - Elgard, Jim
+    birthdate: 1910
+    deathdate: 1959
+    gutenberg_agent_id: '37042'
+    url: http://www.gutenberg.org/2009/agents/37042
+    wikipedia: http://en.wikipedia.org/wiki/Jim_Kjelgaard
+description: The adventures of a boy and his web-footed 'coon hound as they deal with
+  school, a tom-boy named Melinda, and Old Joe, the craftiest raccoon in the Creeping
+  Hills.
+gutenberg_issued: '2012-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coon hunting -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Duck-footed Hound
+url: http://www.gutenberg.org/ebooks/41723
